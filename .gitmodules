@@ -5,3 +5,6 @@
 [submodule "bayesSSM"]
 	path = bayesSSM
 	url = https://github.com/bjarkehautop/bayesssm
+[submodule "quartodown"]
+	path = quartodown
+	url = https://github.com/bjarkehautop/quartodown
